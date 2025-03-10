@@ -1,0 +1,10 @@
+- 컴퓨터를 구분하는 주소 : IP
+- 컴퓨터 안에 있는 서버들을 구분하는 값 : port
+
+윈도우 사용자 : ipconfig를 cmd 에 치면 ip를 확인할 수 있다 ipv4 주소 가 내주소
+
+도메인 네임 서버 = dns
+- 도메인 주소를 ip로 변환한다
+- nslookup 도메인주소
+ - 위의 명령으로 도메인에 해당하는 ip주소를 알아낼수 있다
+ ex) nsolookup www.naver.com 
